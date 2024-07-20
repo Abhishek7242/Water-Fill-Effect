@@ -7,9 +7,7 @@
 body{
     background: #000000;
     font-family: Arial, Helvetica, sans-serif;
-    /* min-height: 100vh;
-    display: flex;
-    justify-content: center; */
+ 
 
 
 }
@@ -29,7 +27,7 @@ color: rgba(255, 255, 255, 0.1);
 background: url('https://t4.ftcdn.net/jpg/05/81/50/87/360_F_581508728_vcz616w3lX2RqmD6JQgGSn5pAnyXw8yU.webp') repeat-x  ;
 -webkit-background-clip: text;
 animation: animate 15s linear infinite;
-animation-delay: 10s;
+
 }
 @keyframes animate {
     0%{
